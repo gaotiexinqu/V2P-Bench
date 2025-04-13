@@ -186,6 +186,12 @@ Results shows that both GPT-4o and Gemini-1.5-Pro exhibit slightly better perfor
 ## 📜 Citation
 If you find our work helpful for your research, please consider citing our work.
 ```
+@article{zhao2025v2p,
+  title={V2P-Bench: Evaluating Video-Language Understanding with Visual Prompts for Better Human-Model Interaction},
+  author={Zhao, Yiming and Zeng, Yu and Qi, Yukun and Liu, YaoYang and Chen, Lin and Chen, Zehui and Bao, Xikun and Zhao, Jie and Zhao, Feng},
+  journal={arXiv preprint arXiv:2503.17736},
+  year={2025}
+}
 ```
 
 **License**:
