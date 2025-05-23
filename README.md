@@ -23,7 +23,7 @@
 ## 👀 Introduce V2P-Bench
 
 <p align="center">
-    <img src="./figs/case.png" width="100%" height="100%">
+    <img src="./figs/main1_m.png" width="100%" height="100%">
 </p>
 
 Large Vision-Language Models (LVLMs) have made significant strides in video understanding, excelling in tasks like video captioning and question answering. However, existing benchmarks primarily use text prompts, which often lack precise spatial and temporal references, complicating assessments in complex scenarios. **We introduce V2P-Bench**, a dedicated benchmark for **evaluating LVLMs' video understanding in human-model interactions.** V2P-Bench comprises 980 curated videos and 1,172 question-answer pairs, including 5 tasks, 12 categories, and 20 video types, utilizing various visual prompts to enhance spatial and temporal comprehension. V2P-Bench aims to provide a more intuitive and effective evaluation of LVLM capabilities. Our benchmark features:
@@ -101,10 +101,6 @@ Once getting model responses in this format, run eval.py to get accuracy scores 
 ```bash
 python eval.py
 ```
-
-📍 **Leaderboard**: 
-
-TBD
 
 
 ## 📈 Main Results
