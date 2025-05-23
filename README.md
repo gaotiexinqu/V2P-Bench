@@ -129,7 +129,7 @@ Results shows that both GPT-4o and Gemini-1.5-Pro exhibit slightly better perfor
 <summary> Click to expand more examples (2 for each dimension).</summary>
 
 <p align="center">
-    <img src="./figs/all-12-cases.png" width="80%" height="50%">
+    <img src="./figs/all-12-cases.png" width="100%" height="100%">
 </p>
 
 
