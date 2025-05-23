@@ -92,7 +92,7 @@ V2P-Bench
 ```
 
 
-📍 **Inference**:
+📍 **Inference and evaluation**:
 
 We save model responses in a **JSONL** file. The response file for `Qwen2.5-VL-72B-Instruct` is provided. Please refer to the provided [inference code](./infer/infer_qwen2.5-vl.py) and [response file](./data/Qwen2.5-VL-72B-Instruct.jsonl)  to set up your model. 
 
