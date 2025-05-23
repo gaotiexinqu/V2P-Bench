@@ -94,9 +94,43 @@ V2P-Bench
 
 📍 **Inference**:
 
-We save model responses in a **JSONL** file. The response file for Qwen2-VL [response_Qwen2-VL.jsonl] is provided. Please refer to the provided inference code and response file to set up your model. 
+We save model responses in a **JSONL** file. The response file for `Qwen2.5-VL-72B-Instruct` is provided. Please refer to the provided inference code and response file [data/Qwen2.5-VL-72B-Instruct.jsonl] to set up your model. 
 
 Once getting model responses in this format, run eval.py to get accuracy scores across video durations and task types. The Q&A pairs are multiple-choice, using rules for matching, without third-party models.The question-and-answer pairs are in a multiple-choice format, using only rules for matching, without introducing any third-party models.
+
+```
+    parser.add_argument(
+        '--model_path', 
+        type = str,
+        default='/cache/qwen2vl/checkpoints/visual_prompt_model_v1',
+        help="model_path")
+    parser.add_argument(
+        '--video_root', 
+        type = str, 
+        default="/cache/zhaoy/video_sample_data_V1.0/video_sample_data_V1.0_compress",
+        help="video_root")
+    parser.add_argument(
+        '--image_root', 
+        type = str, 
+        default="/cache/zhaoy/video_sample_data_V1.0/video_sample_data_V1.0_compress",
+        help="image_root")
+    parser.add_argument(
+        '--data_path', 
+        type = str, 
+        default="/cache/zhaoy/video_sample_data_V1.0/video_sample_data_V1.0_log/data_info_compress.jsonl",
+        help="data_path")
+    parser.add_argument(
+        '--output_path', 
+        type = str, 
+        default="/cache/zhaoy/video_sample_data_V1.0/video_sample_data_V1.0_log/caption_qwen2-vl-7b-instruct.jsonl",
+        help="output_path")
+    parser.add_argument(
+        '--model_id', 
+        type = str, 
+        default="qwen2-vl-7b-instruct",
+        help="显示在caption里面的model_id")
+```
+
 
 ```bash
 python eval.py
