@@ -113,7 +113,7 @@ python eval.py
 
 - **Evaluation results across durations.**
 <p align="center">
-    <img src="./figs/dura.png" width="62%" height="50%">
+    <img src="./figs/dura.png" width="50%" height="50%">
 </p>
 
 - **Extra experiments on different data formats.**
@@ -121,7 +121,7 @@ python eval.py
 Due to the specificity of visual prompt frames, we conduct an extra experiment on different data formats: ***Retrieval*** and ***Needle***.  
 Results shows that both GPT-4o and Gemini-1.5-Pro exhibit slightly better performance in the Retrieval format.
 <p align="center">
-    <img src="./figs/pilot.png" width="50%" height="50%">
+    <img src="./figs/pilot.png" width="100%" height="100%">
 </p>
 
 ## 📐 More Examples
