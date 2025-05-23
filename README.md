@@ -11,7 +11,7 @@
 )
 
 
-<font size=7><div align='center' >  [[📖 arXiv Paper](https://arxiv.org/abs/2503.17736)] [[📊 Dataset](https://huggingface.co/datasets/gaotiexinqu/V2P-Bench)]  [[🏆 Leaderboard](https://vlm-reasoning.github.io/V2P-Bench/)]  </div></font>
+<font size=7><div align='center' > [[🌐 Homepage](https://vlm-reasoning.github.io/V2P-Bench/)] [[📖 arXiv Paper](https://arxiv.org/abs/2503.17736)] [[📊 Dataset](https://huggingface.co/datasets/gaotiexinqu/V2P-Bench)]  [[🏆 Leaderboard](https://vlm-reasoning.github.io/V2P-Bench/#leaderboard)]  </div></font>
 
 ---
 
@@ -126,7 +126,7 @@ Results shows that both GPT-4o and Gemini-1.5-Pro exhibit slightly better perfor
 
 ## 📐 More Examples
 <details>
-<summary> Click to expand more examples (2 for each dimension).</summary>
+<summary> Click to expand more examples.</summary>
 
 <p align="center">
     <img src="./figs/all-12-cases.png" width="100%" height="100%">
