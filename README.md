@@ -11,7 +11,7 @@
 )
 
 
-<font size=7><div align='center' >  [[📖 arXiv Paper]()] [[📊 Dataset](https://huggingface.co/datasets/gaotiexinqu/V2P-Bench)]  [[🏆 Leaderboard(TBD)]()]  </div></font>
+<font size=7><div align='center' >  [[📖 arXiv Paper](https://arxiv.org/abs/2503.17736)] [[📊 Dataset](https://huggingface.co/datasets/gaotiexinqu/V2P-Bench)]  [[🏆 Leaderboard](https://vlm-reasoning.github.io/V2P-Bench/)]  </div></font>
 
 ---
 
