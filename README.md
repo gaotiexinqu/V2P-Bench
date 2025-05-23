@@ -129,52 +129,9 @@ Results shows that both GPT-4o and Gemini-1.5-Pro exhibit slightly better perfor
 <summary> Click to expand more examples (2 for each dimension).</summary>
 
 <p align="center">
-    <img src="./figs/case1.png" width="80%" height="50%">
+    <img src="./figs/all-12-cases.png" width="80%" height="50%">
 </p>
 
-<p align="center">
-    <img src="./figs/case2.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case3.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case4.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case5.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case6.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case7.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case8.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case9.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case10.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case11.png" width="80%" height="50%">
-</p>
-
-<p align="center">
-    <img src="./figs/case12.png" width="80%" height="50%">
-</p>
 
 </details>
 
