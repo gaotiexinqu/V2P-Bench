@@ -108,8 +108,9 @@ python infer_qwen2.5-vl.py \
         --model_id qwen2.5-vl-72b-instruct
 ```
 
-```bash
-python eval.py
+```
+python eval.py \
+    --data_path path/to/Qwen2.5-VL-72B-Instruct.jsonl
 ```
 
 
