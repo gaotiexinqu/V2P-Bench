@@ -16,7 +16,15 @@
 ---
 
 ## 🔥 News
-* **`2025.03.20`** 🌟 We have released **V2P-Bench**, a comprehensive benchmark specifically designed to evaluate the video understanding capabilities of LVLMs in human-model interaction scenarios.
+* **[TBD]** 🔥 We have released a newer version of our paper on [Arxiv](https://arxiv.org/abs/2503.17736).
+
+* **[2026/01/26]** 🔥 V2P-Bench has been accepted to `ICLR2026`!
+
+* **[2025/03/23]** 🔥 We release the [V2P-Bench Dataset](https://huggingface.co/datasets/gaotiexinqu/V2P-Bench) on HuggingFace.
+
+* **[2025/03/22]** 🔥 Paper is now available on [Arxiv](https://arxiv.org/abs/2503.17736).
+
+* **[2025/03/20]** 🔥 We have released `V2P-Bench`, a comprehensive benchmark specifically designed to evaluate the video understanding capabilities of LVLMs in human-model interaction scenarios.
 
 ---
 
@@ -39,14 +47,12 @@ Large Vision-Language Models (LVLMs) have made significant strides in video unde
 - **Quality in annotations**. All data (question-answer pairs and visual prompt frames) are **annotated manually and undergo both model and human filtering** to ensure data quality.
 
 <p align="center">
-    <img src="./figs/circle.png" width="90%" height="80%">
+    <img src="./figs/comp.png" width="90%" height="80%">
 </p>
 
 <p align="center">
-    <img src="./figs/sta.png" width="50%" height="50%">
+    <img src="./figs/circle.png" width="90%" height="80%">
 </p>
-
-
 
 ## 🔮 Evaluation
 📍 **Data Preparation**:
@@ -121,18 +127,14 @@ python eval.py \
     <img src="./figs/perf.png" width="100%" height="50%">
 </p>
 
+- **Hack Phenomena on V2P-Bench.**
 
-- **Evaluation results across durations.**
 <p align="center">
-    <img src="./figs/dura.png" width="50%" height="50%">
+    <img src="./figs/hack.png" width="100%" height="50%">
 </p>
 
-- **Extra experiments on different data formats.**
-  
-Due to the specificity of visual prompt frames, we conduct an extra experiment on different data formats: ***Retrieval*** and ***Needle***.  
-Results shows that both GPT-4o and Gemini-1.5-Pro exhibit slightly better performance in the Retrieval format.
 <p align="center">
-    <img src="./figs/pilot.png" width="100%" height="100%">
+    <img src="./figs/hack_3.png" width="100%" height="50%">
 </p>
 
 ## 📐 More Examples
