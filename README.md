@@ -16,13 +16,13 @@
 ---
 
 ## 🔥 News
-* **[TBD]** 🔥 We have released a newer version of our paper on [Arxiv](https://arxiv.org/abs/2503.17736).
+* **[TBD]** 🔥 We have released a newer version of our paper on [arXiv](https://arxiv.org/abs/2503.17736).
 
 * **[2026/01/26]** 🔥 V2P-Bench has been accepted to `ICLR2026`!
 
 * **[2025/03/23]** 🔥 We release the [V2P-Bench Dataset](https://huggingface.co/datasets/gaotiexinqu/V2P-Bench) on HuggingFace.
 
-* **[2025/03/22]** 🔥 Paper is now available on [Arxiv](https://arxiv.org/abs/2503.17736).
+* **[2025/03/22]** 🔥 Paper is now available on [arXiv](https://arxiv.org/abs/2503.17736).
 
 * **[2025/03/20]** 🔥 We have released `V2P-Bench`, a comprehensive benchmark specifically designed to evaluate the video understanding capabilities of LVLMs in human-model interaction scenarios.
 
