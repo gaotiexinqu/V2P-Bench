@@ -16,7 +16,7 @@
 ---
 
 ## 🔥 News
-* **[TBD]** 🔥 We have released a newer version of our paper on [arXiv](https://arxiv.org/abs/2503.17736).
+* **[2026/02/03]** 🔥 We have released a newer version of our paper on [arXiv](https://arxiv.org/abs/2503.17736v2).
 
 * **[2026/01/26]** 🔥 V2P-Bench has been accepted to `ICLR2026`!
 
